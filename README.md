@@ -7,4 +7,7 @@ This is a sample project for learning github.
 
 ## Installation
 
-## Requirements
+## Requirement
+
+## Pushing to Github
+I'm learning how to push my code from local to Github.
